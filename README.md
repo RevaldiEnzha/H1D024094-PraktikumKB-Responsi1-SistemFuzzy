@@ -1,3 +1,8 @@
+### Nama: Revaldi Enzha Agviandry P
+### NIM: H1D024094
+### Shift KRS: C
+### Shift Baru: C
+
 # Sistem Fuzzy Penilaian Kelayakan Spesifikasi PC untuk Game Berat
 
 Program Python berbasis GUI (Tkinter) yang menggunakan **logika fuzzy** untuk menilai apakah spesifikasi sebuah PC atau laptop cukup layak untuk menjalankan game-game berat modern. Pengguna memasukkan nilai spesifikasi perangkatnya, lalu sistem akan menghitung skor kelayakan dan memberikan label hasil secara otomatis.
